@@ -10,16 +10,4 @@
     "body": "string",
     "post": "Post"
   }
-  "Products": [
-  {
-  'id': 1,
-  'name': "Dell Vostro 15",
-  'category': "Electronics"
-},
-{
-  'id': 2,
-  'name': "Moto e4",
-  'category': "Mobile"
-},
-  ]
 }
