@@ -10,6 +10,7 @@
     "body": "string",
     "post": "Post"
   },
+  "Products": "Product[]",
   "Product": {
   "id": "int",
   "title": "string",
